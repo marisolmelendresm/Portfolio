@@ -1,7 +1,7 @@
 # Portfolio
 Marisol Melendres Muñoz
-Software Engineering Bachelor Degree
-Updated on 06/22/2022
+<br>Software Engineering Bachelor Degree
+<br>Updated on 06/22/2022
 
 Snakes and Ladders: Board Game
 	Description: Object Oriented project in which I was assigned to write code to, simulate the behavior of a board game named "Snakes and Ladders" which consists of a board (tablero) that contains boxes in which you could find either a snake or a ladder depending on your luck.
